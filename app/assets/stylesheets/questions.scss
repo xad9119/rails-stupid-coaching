@@ -1,0 +1,32 @@
+.form-inline {
+  position: absolute;
+  top: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+}
+
+#question{
+  width: 300px ;
+}
+.container {
+  position: relative;
+  width: 66%;
+  height: 100vh;
+  align-items: center;
+  text-align: center;
+}
+
+.my-blockquote {
+  padding: 10px;
+  background: #f9f9f9;
+  margin-left: 100px;
+  margin-right: 100px;
+  border-left: 10px solid grey;
+}
+
+#link {
+  text-decoration: none;
+  color: red;
+}
